@@ -39,3 +39,8 @@ Ces services offrent des interfaces web pour composer visuellement une newslette
 ![Interface de MailChimp](/cours-divers/img/mailchimp-interface.png)
 
 Un produit un peu à part: [Sendy](https://sendy.co/). C'est une application hébergée sur votre serveur, permettant de gérer des newsletters. Les envois se font via le service Amazon SES, plus économique que les autres systèmes.
+
+Une autre catégorie d'outils pour l'envoi de newsletters sont des logiciels dits "CRM", pour "Customer-relationship management" (gestion des relations client). Certains de ces outils sont Open Source, et peuvent être installés gratuitement chez votre hébergeur.
+
+Exemple:
+- [SuiteCRM](https://suitecrm.com/solutions/role/marketing/)
