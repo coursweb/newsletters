@@ -29,7 +29,6 @@ Une newsletter est un service de communication "à sens unique", permettant de t
 Quelques services de création et d'envoi de newsletters, parmi les plus connus: 
 
 * [MailChimp](https://mailchimp.com/)
-* [Tinyletter](https://tinyletter.com/)
 * [Mailjet](https://www.mailjet.com/)
 * [Constant Contact](https://www.constantcontact.com/)
 * [Aweber](https://www.aweber.com/)
@@ -37,6 +36,11 @@ Quelques services de création et d'envoi de newsletters, parmi les plus connus:
 Ces services offrent des interfaces web pour composer visuellement une newsletter, pour gérer les abonnés, et pour effectuer les envois.
 
 ![Interface de MailChimp](/cours-divers/img/mailchimp-interface.png)
+
+Des services "minimalistes" pour composer des newsletters en pur texte (et écrire en MarkDown):
+
+* [Tinyletter](https://tinyletter.com/)
+* [ButtonDown](https://buttondown.email/) - utilisé par [Robin Rendle](https://buttondown.email/robinrendle/)
 
 Un produit un peu à part: [Sendy](https://sendy.co/). C'est une application hébergée sur votre serveur, permettant de gérer des newsletters. Les envois se font via le service Amazon SES, plus économique que les autres systèmes.
 
