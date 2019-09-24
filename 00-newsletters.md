@@ -22,7 +22,7 @@ Une newsletter est un service de communication "à sens unique", permettant de t
 
 > Je pense que tout artiste, toute personne agissant dans le monde d'aujourd'hui, doit démarrer une newsletter email immédiatement.
 
-> Pourquoi? Simplement parce que nous ne pouvons pas faire confiance aux résaux sociaux, ou a toute plateforme commerciale centralisée, nous ne pouvons pas les laisser interférer dans nos messages adressés à nos tribus, nos bandes et compagnons de voyage, qui doivent être les premiers à entendre nos bonnes nouvelles. L'email n'est certainement pas idéal, mais c'est un moyen de communication décentralisé, fiable, et qui n'est pas près de disparaître. Ce sont des qualités trop rares, presque magiques. 
+> Pourquoi? Simplement parce que nous ne pouvons pas faire confiance aux résaux sociaux, ou à toute plateforme commerciale centralisée. Nous ne pouvons pas les laisser interférer dans nos messages adressés à nos tribus, nos bandes et compagnons de voyage, qui doivent être les premiers à entendre nos bonnes nouvelles. L'email n'est certainement pas idéal, mais c'est un moyen de communication décentralisé, fiable, et qui n'est pas près de disparaître. Ce sont des qualités trop rares, presque magiques. 
 
 > – Robin Sloan. 
 
@@ -39,7 +39,7 @@ Ces services offrent des interfaces web pour composer visuellement une newslette
 
 Des services "minimalistes" pour composer des newsletters en pur texte (et écrire en MarkDown):
 
-* [Tinyletter](https://tinyletter.com/)
+* [Tinyletter](https://tinyletter.com/) - créé initialement par Philip Kaplan pour garder le contact avec ses amis et fans.
 * [ButtonDown](https://buttondown.email/) - utilisé par [Robin Rendle](https://buttondown.email/robinrendle/)
 
 Un produit un peu à part: [Sendy](https://sendy.co/). C'est une application hébergée sur votre serveur, permettant de gérer des newsletters. Les envois se font via le service Amazon SES, plus économique que les autres systèmes.
