@@ -41,6 +41,7 @@ Des services "minimalistes" pour composer des newsletters en pur texte (et écri
 
 * [Tinyletter](https://tinyletter.com/) - créé initialement par Philip Kaplan pour garder le contact avec ses amis et fans.
 * [ButtonDown](https://buttondown.email/) - utilisé par [Robin Rendle](https://buttondown.email/robinrendle/)
+* [Substack](https://substack.com/) - service spécialisé, permettant des newsletters à abonnement payant.
 
 Un produit un peu à part: [Sendy](https://sendy.co/). C'est une application hébergée sur votre serveur, permettant de gérer des newsletters. Les envois se font via le service Amazon SES, plus économique que les autres systèmes.
 
