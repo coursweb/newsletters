@@ -32,6 +32,7 @@ Quelques services de création et d'envoi de newsletters, parmi les plus connus:
 * [Mailjet](https://www.mailjet.com/)
 * [Constant Contact](https://www.constantcontact.com/)
 * [Aweber](https://www.aweber.com/)
+* [MailerLite](https://www.mailerlite.com/)
 
 Ces services offrent des interfaces web pour composer visuellement une newsletter, pour gérer les abonnés, et pour effectuer les envois.
 
