@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Ressources
-permalink: /newsletters/ressources/
 ---
 
 ## Ressources

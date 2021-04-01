@@ -1,7 +1,6 @@
 ---
 layout: page
 title: MailChimp
-permalink: /newsletters/mailchimp/
 ---
 
 

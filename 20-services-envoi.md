@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Services d'envoi
-permalink: /newsletters/services-envoi/
 ---
 
 Ce sont des plate-formes d'expédition pour l'envoi d'emails en grande quantité:

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Newsletters
-permalink: /newsletters/
+permalink: index.html
 ---
 
 # Mailing-listes et newsletters

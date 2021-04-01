@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Outils de test
-permalink: /newsletters/outils-de-test/
 ---
 
 ## Outils de test
