@@ -28,7 +28,7 @@ Il n'est pas facile de trouver le lien de votre page d'abonnement. Voici comment
 
 ### Créer une landing page
 
-Les pages d'abonnement Mailchimp ont un design très peu attrayant. Pour aller plus loin, voilà comment créer une Landing Page: 
+Les pages d'abonnement Mailchimp, par défaut, ont un design très peu chaleureux. Pour donner une image plus invitante, voilà comment créer une Landing Page avec un design personnalisé: 
 
 <video controls="controls">
   <source src="images/mailchimp-creer-landing-page.mp4" type="video/mp4" />
