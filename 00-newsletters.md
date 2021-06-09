@@ -36,7 +36,7 @@ Quelques services de création et d'envoi de newsletters, parmi les plus connus:
 
 Ces services offrent des interfaces web pour composer visuellement une newsletter, pour gérer les abonnés, et pour effectuer les envois.
 
-![Interface de MailChimp](/cours-divers/img/mailchimp-interface.png)
+![Interface de MailChimp](images/mailchimp-interface.png)
 
 Des services "minimalistes" pour composer des newsletters en pur texte (et écrire en MarkDown):
 
