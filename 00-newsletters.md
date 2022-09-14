@@ -21,9 +21,9 @@ Une newsletter est un service de communication "à sens unique", permettant de t
 ### Quelle est l'utilité d'une newsletter? 
 
 > Je pense que tout artiste, toute personne agissant dans le monde d'aujourd'hui, doit démarrer une newsletter email immédiatement.
-
+>
 > Pourquoi? Simplement parce que nous ne pouvons pas faire confiance aux résaux sociaux, ou à toute plateforme commerciale centralisée. Nous ne pouvons pas les laisser interférer dans nos messages adressés à nos tribus, nos bandes et compagnons de voyage, qui doivent être les premiers à entendre nos bonnes nouvelles. L'email n'est certainement pas idéal, mais c'est un moyen de communication décentralisé, fiable, et qui n'est pas près de disparaître. Ce sont des qualités trop rares, presque magiques. 
-
+>
 > – Robin Sloan. 
 
 Quelques services de création et d'envoi de newsletters, parmi les plus connus: 
