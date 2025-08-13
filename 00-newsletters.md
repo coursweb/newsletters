@@ -45,7 +45,10 @@ Des services "minimalistes" pour composer des newsletters en pur texte (et écri
 
 Un produit un peu à part: [Sendy](https://sendy.co/). C'est une application hébergée sur votre serveur, permettant de gérer des newsletters. Les envois se font via le service Amazon SES, plus économique que les autres systèmes.
 
+### Les CRM
+
 Une autre catégorie d'outils pour l'envoi de newsletters sont des logiciels dits "CRM", pour "Customer-relationship management" (gestion des relations client). Certains de ces outils sont Open Source, et peuvent être installés gratuitement chez votre hébergeur.
 
-Exemple:
+Exemples:
 - [SuiteCRM](https://suitecrm.com/solutions/role/marketing/)
+- [FluentCRM](https://wordpress.org/plugins/fluent-crm/) (intégré à WordPress)
