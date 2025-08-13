@@ -40,7 +40,6 @@ Ces services offrent des interfaces web pour composer visuellement une newslette
 
 Des services "minimalistes" pour composer des newsletters en pur texte (et écrire en MarkDown):
 
-* [Tinyletter](https://tinyletter.com/) - créé initialement par Philip Kaplan pour garder le contact avec ses amis et fans.
 * [ButtonDown](https://buttondown.email/) - utilisé par [Robin Rendle](https://buttondown.email/robinrendle/)
 * [Substack](https://substack.com/) - service spécialisé, permettant des newsletters à abonnement payant.
 
